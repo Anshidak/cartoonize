@@ -1,0 +1,11 @@
+Flask
+gunicorn
+Pillow
+opencv_python
+tensorflow
+google-cloud-storage
+algorithmia
+scikit-video
+tf_slim
+PyYaml
+flask-ngrok
