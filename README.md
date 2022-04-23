@@ -30,7 +30,7 @@ python app.py
 ```
 
 ### In Windows
-### Using'conda'
+### Using `conda`
 
 1.install conda to create a virtual environment
 
