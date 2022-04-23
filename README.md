@@ -36,7 +36,6 @@ python app.py
 
 2. Make a virtual environment using conda "conda create -n envname"
 3. Activate conda environment using "conda activate envname"
-```
 4.Install python dependencies
 ```
 pip install -r requirements.txt
