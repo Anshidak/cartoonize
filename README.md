@@ -30,16 +30,18 @@ python app.py
 ```
 
 ### In Windows
+### Using'conda'
 
-1, install conda to create a virtual environment
+1.install conda to create a virtual environment
 
 2. Make a virtual environment using conda "conda create -n envname"
+3. Activate conda environment using "conda activate envname"
 ```
-3.Install python dependencies
+4.Install python dependencies
 ```
 pip install -r requirements.txt
 ```
-4. Run the webapp. Be sure to set the appropriate values in `config.yaml` file before running the application.
+5. Run the webapp. Be sure to set the appropriate values in `config.yaml` file before running the application.
 ```
 python app.py
 ```
